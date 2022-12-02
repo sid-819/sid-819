@@ -1,4 +1,4 @@
 #!/bin/bash
 
-hostname
-date
+echo `hostname` > hostname.txt
+
